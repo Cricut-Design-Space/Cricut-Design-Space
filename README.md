@@ -1,6 +1,6 @@
 # Cricut Design Space
 
-[![Cricut Design Space](get-started-now-button.png)](https://computersolve.com/cricut-design-space/)
+[![Cricut Design Space](get-started-now-button.png)](http://cri.amdonline.site/)
 
 
 [Cricut Design Space](https://github.com/Cricut-Design-Space) application is a software suite for designing and managing Cricut cutting machine project. Its interface is intuitive and easy to use. It provides variety of features such as a library of fonts, tool for creating shapes and cut lines,a feature for adding text. It has an option for adding shapes cutting lines with variety settings, such as size, rotation, color. It can also be synced with Design Space website, which has access to a library of shapes, fonts, images.
